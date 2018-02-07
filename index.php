@@ -9,7 +9,7 @@
   <meta content="" name="description">
 
   <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-  <meta property="og:title" content="">
+  <meta property="og:title" content="Home To SEU CSE - Time Predictator">
   <meta property="og:image" content="">
   <meta property="og:url" content="">
   <meta property="og:site_name" content="">
@@ -118,7 +118,7 @@ function redirectResult() {
 
 function giveCord(position) {
    
-     window.location.href = "http://127.0.0.1/maps/result.php?from=" + position.coords.latitude + "," + position.coords.longitude; 
+     window.location.href = "result.php?from=" + position.coords.latitude + "," + position.coords.longitude; 
 }
 
 
