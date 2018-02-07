@@ -62,8 +62,7 @@
 
 
           <div id="mapholder"></div>
-          <div id="nextDiv" style="display:none; border: 0;"><a class="btn-services" onclick="redirectResult()">
-            </a></div>
+          <div id="nextDiv" style="display:none; border: 0;"><a class="btn-services" onclick="redirectResult()">Next</a></div>
 
 
 <script>
