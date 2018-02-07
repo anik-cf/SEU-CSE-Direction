@@ -144,8 +144,7 @@ function showError(error) {
 
 
 
-<div class="credit" style="position:absolute; bottom:0;"> <center>Realtime Data fetched from Google Maps API, Traffic Mode Used: Best Guess, Created By:<a href="">Anik</a></center>  
-     </div> 
+
 
           
         </div>
@@ -170,7 +169,7 @@ function showError(error) {
   <!-- Template Specisifc Custom Javascript File -->
   <script src="js/custom.js"></script>
 
-  <script src="contactform/contactform.js"></script>
+
 
 
 </body>
