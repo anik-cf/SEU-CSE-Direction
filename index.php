@@ -57,12 +57,12 @@
         <h1>Your Home to Southeast University</h1>
         <h2>Calculate the time you need to reach Campus<br/> <span class="rotating">real time prediction, google maps traffic best guess</span></h2>
         <div class="actions">
-          <a href="" onclick="getLocation()" class="btn-get-started">Get Strated</a>
+          <a onclick="getLocation()" class="btn-get-started">Get Strated</a>
 
 
 
           <div id="mapholder"></div>
-          <div id="nextDiv" style="display:none; border: 0;"><a href="" class="btn-services" onclick="redirectResult()">
+          <div id="nextDiv" style="display:none; border: 0;"><a class="btn-services" onclick="redirectResult()">
             </a></div>
 
 
